@@ -9,8 +9,8 @@ Each guide includes all the necessary steps, tools, and firmware required to suc
 ## Repository Structure
 
 ### Device Guides
-- **[Redmi Note 9T](redmi_note_9t/)**: Step-by-step guide to updating the firmware for the Redmi Note 9T.
-- **[Xiaomi 13T](xiaomi_13t/)**: Detailed instructions for Xiaomi 13T firmware update.
+- **[Redmi Note 9T](Redmi%20Note%209T/)**: Step-by-step guide to updating the firmware for the Redmi Note 9T.
+- **[Xiaomi 13T](Xiaomi%2013T/)**: Detailed instructions for Xiaomi 13T firmware update.
 
 ## Important Notes
 
