@@ -1,6 +1,6 @@
-# Smartphone Firmware Update Guide
+# Firmware Update Guide
 
-This repository contains detailed guides and steps for changing the firmware on two different smartphone models:
+This repository contains detailed guides and steps for changing the firmware on two different phone models:
 - **Redmi Note 9T**
 - **Xiaomi 13T**
 
