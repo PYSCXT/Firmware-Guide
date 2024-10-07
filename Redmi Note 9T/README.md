@@ -1,9 +1,9 @@
 # Redmi Note 9T - 5G SA Network Connectivity Guide
 
-This guide provides steps to ensure your Redmi Note 9T can connect to a 5G n79 network using Standalone (SA) mode.
+This guide provides steps to ensure your Redmi Note 9T can connect to a 5G network using Standalone (SA) mode.
 
 ## Objective
-The ultimate goal is to configure the Redmi Note 9T to connect to a 5G SA network, specifically the n79 band. Follow these steps to check if your device is already able to connect, and if not, configure it accordingly.
+The ultimate goal is to configure the Redmi Note 9T to connect to a 5G SA network, specifically the n78 and n79 bands. Follow these steps to check if your device is already able to connect, and if not, configure it accordingly.
 
 ## Step 1: Check if the Phone Connects to 5G
 
